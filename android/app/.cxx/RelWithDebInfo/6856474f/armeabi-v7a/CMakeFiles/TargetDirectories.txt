@@ -1,0 +1,2 @@
+/home/urmum/AndroidStudioProjects/Spendly/spendly/android/app/.cxx/RelWithDebInfo/6856474f/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/urmum/AndroidStudioProjects/Spendly/spendly/android/app/.cxx/RelWithDebInfo/6856474f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

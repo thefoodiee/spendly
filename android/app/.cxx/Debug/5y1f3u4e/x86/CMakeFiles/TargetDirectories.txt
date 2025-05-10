@@ -1,0 +1,2 @@
+/home/urmum/AndroidStudioProjects/FinCook/fincook/android/app/.cxx/Debug/5y1f3u4e/x86/CMakeFiles/edit_cache.dir
+/home/urmum/AndroidStudioProjects/FinCook/fincook/android/app/.cxx/Debug/5y1f3u4e/x86/CMakeFiles/rebuild_cache.dir

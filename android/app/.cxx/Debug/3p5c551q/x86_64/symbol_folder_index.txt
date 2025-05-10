@@ -1,0 +1,1 @@
+/home/urmum/AndroidStudioProjects/FinCook/fincook/build/app/intermediates/cxx/Debug/3p5c551q/obj/x86_64
