@@ -36,7 +36,7 @@ A smart, privacy-first Flutter app that automatically tracks your expenses by re
    git clone https://github.com/thefoodiee/spendly.git
    cd sms-spend-tracker
 
-2. **Intstall Dependencies**:
+2. **Install Dependencies**:
    ```bash
    flutter pub get
 
